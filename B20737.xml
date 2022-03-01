@@ -1,0 +1,811 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract ovt of the records of the tovver, touching the Kings revenue, and how they have supported themselves by Sir Robert Cotton ...</title>
+            <author>Cotton, Robert, Sir, 1571-1631.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20737</idno>
+            <idno type="STC">Wing C6476</idno>
+            <idno type="EEBO-CITATION">12228847</idno>
+            <idno type="OCLC">ocm 12228847</idno>
+            <idno type="VID">197344</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B20737)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197344)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 245:E107, no 20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract ovt of the records of the tovver, touching the Kings revenue, and how they have supported themselves by Sir Robert Cotton ...</title>
+                  <author>Cotton, Robert, Sir, 1571-1631.</author>
+                  <author>Tower of London (London, England)</author>
+               </titleStmt>
+               <extent>[2], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Tomlinson, T.A. and A.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Revenue --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197344:1" rendition="simple:additions"/>
+            <p>AN ABSTRACT OVT OF THE RECORDS OF THE TOVVER, Touching The KINGS Revenue: AND How they have ſupported themſelves. By Sir ROBERT COTTON, Knight <hi>and Baronet.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>G. Tomlinſon,</hi> T. A. and A. C.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:197344:2"/>
+            <pb n="1" facs="tcp:197344:2"/>
+            <head>AN ABSTRACT OVT Of the Records of the Tower, touching the Kings Revenue.</head>
+            <p>THE Kings of <hi>England</hi> have ſupported and repaired their eſtates, either
+<list>
+                  <item>1. By annuall proportioning their Iſſues and Expences with their certaine and ca<g ref="char:EOLhyphen"/>ſuall Revenues, and that either by
+<list>
+                        <item>1. Advice of their pri<g ref="char:EOLhyphen"/>vie Councell, Or,</item>
+                        <item>2. Parliament.</item>
+                     </list>
+                  </item>
+                  <item>2. By abating and reforming the exceſſe of
+<list>
+                        <item>1. Houſhold.</item>
+                        <item>2. Retinue and Favorites.</item>
+                        <item>3. Gifts and Rewards.</item>
+                     </list>
+                  </item>
+                  <item>3. By raiſing of Money, and improving the Revenues of the Crowne, and that either by the
+<list>
+                        <item>1. Grant of the Subject, Or,</item>
+                        <item>2. Power abſolute in the Soveraigne.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>Firſt, for proportioning the Iſſues and expences, with their certaine and caſuall Revenues.</p>
+            <p>
+               <hi>H.</hi> 4. <hi>Anno</hi> 12. when the Revenue and profits of the Kingdome, together with the Subſidy of Wooll, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Tenth of the Clergy, amounted to no more then 48000 l'. of which 24000 l'. was alotted for the expence of houſe, moſt of the reſt to the guard of the Sea, and defence of this Kingdome, the Realme of Ireland,<note place="margin">Ex Rot. orig. intent. Act. Conc H. 4. Marked 21.</note> and Dominions in France. In this eſtimate the profit by Wards and Mar<g ref="char:EOLhyphen"/>riage, was but two thouſand. And then an Ordinance
+<pb n="2" facs="tcp:197344:3"/> was made by the King, Prince, and all his Councell the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e named the Roll.</p>
+            <p>The like was <hi>Anno</hi> 11. when for the charge of Houſe was appointed 16000 l'. and 7000 l'. to the City of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> in diſcharge of the Kings debt.</p>
+            <p>
+               <note place="margin">Ex Rot. in a<g ref="char:EOLhyphen"/>ctis Conc, An, 2. H. 5.</note>
+               <hi>H.</hi> 5. <hi>Anno</hi> 2. did the like as his father, entring upon the Roll, as an ordinance in future, That the Treaſurer of England, or of the Exchequer, ſhall annually make declaration, of the ſtate of their office, and the Re<g ref="char:EOLhyphen"/>venue of the Realme, together with the charge of the Kings Houſe, Chamber, Wardrobe, Garriſons, Navie and debts.</p>
+            <p>
+               <hi>Anno</hi> 3. <hi>H.</hi> 5. the like aſſignments were made propor<g ref="char:EOLhyphen"/>tionable to the Revenue which in the great cuſtome of Woolls,<note place="margin">Ex Rot. orig. A. 8. H. 5. M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed B B.</note> the petty cuſtome, Tunnage and Poundage, Revenue of Wales, and the Dutchy of Cornwall, the Hamper, the accounts of Sheriffs and Eſcheators, the ex<g ref="char:EOLhyphen"/>change of Bullion, and the benefit of Wards and Mar<g ref="char:EOLhyphen"/>riage (then rated at but 1000 Markes a peece) roſe not to above 56966 l'. and being at ſuch time as hee under<g ref="char:EOLhyphen"/>tooke the conqueſt of France.</p>
+            <p>
+               <hi>Anno</hi> 9. <hi>H.</hi> 5. the Revenue of the Kingdome amount<g ref="char:EOLhyphen"/>ting to 55743 l'. 20 s. 10 d. was ſo by the King with ad<g ref="char:EOLhyphen"/>vice of his Councell,<note place="margin">Ex ordinat. anno 9 H 5. Marked Ox 7.</note> ordered as before. And by this Re<g ref="char:EOLhyphen"/>cord it appeareth, that the Clerke of the Navie, and not the Treaſurer, was the officer only for that place.</p>
+            <p>
+               <note place="margin">Ex Rot. Par. anno 12. H. 6.</note>
+               <hi>H.</hi> 6. <hi>anno</hi> 12. in Parliament, <hi>Cromwell</hi> then Treaſu<g ref="char:EOLhyphen"/>rer, delivering up an account of the <hi>axitus</hi> and <hi>introitus</hi> of the Exchequer, ſetled the eſtate of his expence, of which there was allowed for his Houſe 10978. and to his Chamber and Wardrobe 2000 l'.</p>
+            <p>The reſt to defray the debts and neceſſary occaſion<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the State.</p>
+            <p>
+               <note place="margin">Ex computo Dom. Burleigh T<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>Queene <hi>Elizabeth anno</hi> 12, at which time, beſides the Wards, and Dutchy of Lancaſter, the profit of the Kingdome was 188197 l.' 4 s. The payments and aſſign<g ref="char:EOLhyphen"/>ments
+<pb n="3" facs="tcp:197344:3"/> 110612 l'. 13 s. of which the houſhold was 30000 l'. privie Purſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 2000 l'. Admiralty 30000 l'. which by an eſtimate 1. <hi>Mali anno</hi> 1604. was 40000 l'. and i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now ſwolne to neere 50000 l', yearly, by the er<g ref="char:EOLhyphen"/>ror and abuſe of Officers.</p>
+            <list>
+               <item>2. For abating and reforming the ex<g ref="char:EOLhyphen"/>ceſſe of —
+<list>
+                     <item>1. Houſhold.</item>
+                     <item>2. Retinue and Favorites.</item>
+                     <item>3. Gifts and Rewards.</item>
+                  </list>
+               </item>
+               <item>1. For abating and refor<g ref="char:EOLhyphen"/>ming the exceſſe of houſhold, either by
+<list>
+                     <item>1. Parliament.</item>
+                     <item>2. Councell-Table.</item>
+                  </list>
+               </item>
+            </list>
+            <div type="part">
+               <head>
+                  <hi>1.</hi> By Parliament.</head>
+               <p>
+                  <hi>Anan</hi> 3. <hi>E.</hi> 2. An ordinance was ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <hi>pro hoſpitio Regis,</hi>
+                  <note place="margin">Ex Angl. Ma<g ref="char:EOLhyphen"/>nuſcrip. fol, 29.</note> in eaſe of the people oppreſſed with purveyance, by rea<g ref="char:EOLhyphen"/>ſon of the greatneſſe thereof, and the motive of that Or<g ref="char:EOLhyphen"/>dance was <hi>Al honneur de dieu et al honneur et profit de Saincte Eſgliſe et al honneur de Roy, et ſon profit, et au profit de ſon peuple ſelons droit et reſon delſerement quod le dit noſtre Signeur le Roy fiſt à ſon Coronment.</hi>
+                  <note place="margin">Ex libro di<g ref="char:EOLhyphen"/>cto a ula R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>gis.</note>
+               </p>
+               <p>And about this time was the Kings houſe new formed, and every Officer limited his charge and ſalary.</p>
+               <p>
+                  <hi>Anno</hi> 36. <hi>E.</hi> 3.<note place="margin">Rot. Par. anno 36. E. 3.</note>The houſhold was brought to ſuch mo<g ref="char:EOLhyphen"/>deration of expence, as may be anſwerable to the Re<g ref="char:EOLhyphen"/>venues of the Crowne: and a Commiſſion granted at the Petition of the Commons to ſurvey and abate the houſhold, which not taking th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſired effect, <hi>Anno</hi> 5.<note place="margin">Rot. Par. anno 5. &amp; 6. R. 2.</note> the Commons petitioned that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> exceſſive number of Meniall ſervants may bee remedied, or otherwiſe the Realme will be utterly undone, and that his houſhold might not exceed the ordinary revenues of the Realme, &amp;c.</p>
+               <p>
+                  <hi>Anno</hi> 4. <hi>H.</hi> 4.<note place="margin">Rot. Par. an. 4. 7. &amp; 11. H. 4.</note> the people crave reformation of the
+<pb n="4" facs="tcp:197344:4"/> Kings houſe. And <hi>anno</hi> 7. that hee would diſmiſſe ſome number of the Retinue, ſince it was now more charge<g ref="char:EOLhyphen"/>able, but leſſe honourable then his progenitors. And that the ancient Ordinances of the houſhold, in eaſe of the people, might be kept, and the Officers of the houſe<g ref="char:EOLhyphen"/>hold ſworne to put the Ordinances and Statutes in due execution, and ſo conſider the juſt griefes of his ſubjects by unjuſt purveyance, contrary to the Statute, that here<g ref="char:EOLhyphen"/>after <hi>Vous poir viure le voſtre biens propres in eaſe de voſtre peuple,</hi>
+                  <note place="margin">Ex ordinat in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ct. Conc. anno 11. H. 4. Marked R R.</note> which the King willingly doth, as appeareth by an ordinance in Councell, whereby the charge of the houſhold is limited to 16000 Markes.</p>
+               <p>
+                  <note place="margin">Rot. Parl. an<g ref="char:EOLhyphen"/>no 12. &amp; 18. H. 6.</note>
+                  <hi>Anno</hi> 12. <hi>&amp;</hi> 18. <hi>Hen.</hi> 6. the charge of the Kings houſe is reduced to a certainty, and leſſened by Petition and order in Parliament.</p>
+               <p>
+                  <note place="margin">Ex rot. Parl. anno 12. E. 4. Ex lib. Or<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in. hoſpit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> tem<g ref="char:EOLhyphen"/>pore. E 4.</note>
+                  <hi>Anno</hi> 12. <hi>E</hi> 4. The King promiſes to abate his houſe<g ref="char:EOLhyphen"/>hold, and hereafter to live upon his owne. So ſetling a new forme of his Court, which is extant in many hands, intituled <hi>Ordinations for the Kings Houſe.</hi>
+               </p>
+               <p>And to eaſe the charge of the Kings houſe, the Queens have allowed a portion of their joincture, ſui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng to their owne expence, to the Treaſurer of the houſhold; as did <hi>Philippa,</hi> the wife of <hi>Edward</hi> the third. And ſo likewiſe <hi>Henry</hi> the fourth his wife, <hi>anno</hi> 7. And <hi>H.</hi> 6. his wife allowed 2000 l'. a yeare out of her eſtate.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>2.</hi> Exceſſe of houſhold abated and reformed by Councell Table.</head>
+               <p>
+                  <note place="margin">Ex aula regis fact. tempore. E. 3.</note>
+                  <hi>Edward</hi> the third cauſed his houſhold to bee certaine in allowances, making thereof a Booke by way of <hi>Or<g ref="char:EOLhyphen"/>dinance,</hi> which is called <hi>Aula Regis.</hi>
+               </p>
+               <p>
+                  <note place="margin">Act Conc. 8. H. 4. Marked P P.</note>
+                  <hi>Henry</hi> the fourth counſelled his ſonne the Prince, and the reſt of his Councell, to ordaine ſuch moderate go<g ref="char:EOLhyphen"/>vernance of his houſe that may continue, <hi>Au pleiſer du Dieu et du peuple.</hi>
+               </p>
+               <pb n="5" facs="tcp:197344:4"/>
+               <p>
+                  <hi>Hen.</hi> 6. <hi>Anno</hi> 27.<note place="margin">Mich. recept. 27. H. 6.</note> reduced his charge of houſe to 12000. l'. whereof 2000. l'. was out of the Queenes Joynture.</p>
+               <p>
+                  <hi>Ed.</hi> 4. <hi>Anno</hi> 12. reformeth it againe,<note place="margin">Ex lib. Ordin. hoſpiti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> temp. E. 4.</note> and publiſheth a booke of Orders for their better direction, which after<g ref="char:EOLhyphen"/>wards Cardinall <hi>Wolſey,</hi> for the more honour and profit of the King, amendeth.<note place="margin">Ordinat. Card. Wolſey, temp. H. 8.</note> And that ſtill remaineth the ground-work of the preſent government; which being now ſo much corru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ted, it may ſeeme fit either to put down the Tables, and leave all the attendants to allow<g ref="char:EOLhyphen"/>ance of money, as France and Spaine doth, or elſe by ſetting up the Hall againe, reduce the Houſhould to the beſt, firſt, and moſt magnificent order: So all things being ſpent in publick, will be to the Kings honour, and the ſecret waſte by chamber-diet &amp; purloyning, preven<g ref="char:EOLhyphen"/>ted, to the Kings benefit. For there is never a back doore in Court, which coſts not the King ſo little as 2000 l'. yearly. And few meane houſes in Weſtminſter that are not maintained with food and firing by ſtealth of the Court Inſtruments.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>2.</hi> By abating and reforming the exceſſe of Retinue and Favorites.</head>
+               <p>Thus <hi>Henry</hi> the ſecond did with <hi>William de Ipre</hi> Earle of Kent, a Netherlander,<note place="margin">Ex Gerratio Dorobornens.</note> and all his Countrey men and followers, when they grew heavie, and a burden to the State, unable to foſter more then her owne naturall chil<g ref="char:EOLhyphen"/>dren.</p>
+               <p>Thus <hi>Richard</hi> 1. did with <hi>Otho</hi> Earle of Yorke,<note place="margin">Ex Ric. Cano<g ref="char:EOLhyphen"/>nico in vita R 1.</note> and all th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Bavarians, although hee was the ſonne of his ſiſter, taking from him that Earldome, for that the people op<g ref="char:EOLhyphen"/>poſed it, and giving him in exchange the Title of <hi>Poictou.</hi>
+               </p>
+               <p>Thus <hi>Henry</hi> the third did with his halfe brethren the Earle of Pembroke, and Biſhop of Wincheſter,<note place="margin">Ex libro ſancti Al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an. &amp; Wil. R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nger &amp; liber Baron. P P.</note> and all the Poictors their followers.</p>
+               <pb n="6" facs="tcp:197344:5"/>
+               <p>
+                  <note place="margin">Ex ordinat. 3. E. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in libro l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gum, M S. fol. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>85.</note>Thus <hi>Edward</hi> 2. did by his Ordinance, <hi>L<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> to<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>age ſire Pieres de Gaveſton ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>it entirement <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſtre deſire ent<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Roy, &amp; de ſon ſervis:</hi>
+               </p>
+               <p>Item <hi>Burgois de Till ſoit ouſte &amp; ſon fia<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> quod eſt Mar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſcall del Exchequer. Ite<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> quod Bertram Aſſabi &amp; ſon frere &amp; ceux de Gaſcoigne &amp; Aymerick de Triſc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mband ſei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s ouſtre &amp; ſes Terres priſes en le main le Roy.</hi>
+               </p>
+               <p>
+                  <note place="margin">Ex rot. Par. anno 10 R 2.</note>Thus <hi>Richard</hi> 2. did with the Bohemians, <hi>anno</hi> 10. by an Act of Parliament at the petition of the people ſur<g ref="char:EOLhyphen"/>charged.</p>
+               <p>Thus <hi>Henry</hi> 4. did with the Gaſcoines and Welſh in like ſort overburdening and impoveriſhing the King and Realm,<note place="margin">Ex rot. Par. anno 7. &amp; 12. H. 4.</note> with perpetuall ſuits, ſo that in Court (as the Re<g ref="char:EOLhyphen"/>cord ſaith) there were <hi>Ne ad nul ſubſtance des perſonnes vaylantes &amp; ſuffeſants ſi beſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>igne ſeroit mes de Raſcail<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> par la grendre part.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>3.</hi> By abating and reforming the exceſſe of Gifts, and Rewards.</head>
+               <p>Hence was it that the wiſedome of former times fore<g ref="char:EOLhyphen"/>ſeeing the miſchiefe that the open hand of the Sove<g ref="char:EOLhyphen"/>raigne may bring the State into, made a Law, 11. <hi>R.</hi> 2. That whatſoever cometh to the King by Judgement,<note place="margin">Rot. Par. anno 11. <hi>R.</hi> 2. Anno 2. 4. &amp; 5 H. 4.</note> Eſcheat, Forfeiture, Wardſhip, or any other wayes, ſhall not be given away, and that the procurer of any ſuch gift ſhall be puniſhed.</p>
+               <p>
+                  <note place="margin">Rot. Par. anno 7. H. 4.</note>Thus the Parliament continued 7. <hi>H.</hi> 4. untill the King was out of debt, making fruſtrate the grant, and or<g ref="char:EOLhyphen"/>daining a penalty of double value to every mover or pro<g ref="char:EOLhyphen"/>curer of any ſuch.</p>
+               <p>
+                  <note place="margin">Rot. Par. anno 11. H. 4. N. 23.</note>The like <hi>anno</hi> 11. <hi>H.</hi> 4. and that no petition for any thing ſhould be delivered the King, but in the preſence of the Councel, who might examine it, leſt the Kings wants ſhould light upon the Commons.</p>
+               <p>
+                  <note place="margin">Rot. par. 2. an<g ref="char:EOLhyphen"/>no 25. H. 6. M. 24.</note>And to keep the hands of King <hi>Henry</hi> 6. from waſtfull <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iving, the Councell induced him to convey to the Arch-Biſhop of Canterbury, and others, all profits of Words,
+<pb n="7" facs="tcp:197344:5"/> Marriages, Reliefes, Eſcheats and forfeitures, to defray the charge of his houſe.</p>
+               <p>It is one of the greateſt accuſations againſt the Duke of Summerſet,<note place="margin">Ex Rot. Par. anno 28. H. 6.</note> for ſuffering the King to give away the poſſeſſions of the Crowne in manner of a ſpoile; for ſo are the words of the Record.</p>
+               <p>And it was made the firſt and chiefeſt Article to de<g ref="char:EOLhyphen"/>poſe King <hi>Richard</hi> for waſting and beſtowing the Lands and Revenue of the Crowne upon unworthy perſons,<note place="margin">Ex rot. Par. anno 1. E. 4.</note> and thereby over-charging the Commons by exaction.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>3.</hi> By raiſing of money and improving the Revenue of the Crowne, either</head>
+               <p>By the
+<list>
+                     <item>1. Grant of the Subject, which is
+<list>
+                           <item>1. generall, as Parliament, Or,</item>
+                           <item>2. Particular.</item>
+                        </list>
+                     </item>
+                     <item>2. Power abſolute in the Soveraigne, as by —
+<list>
+                           <item>Loanes, Or,</item>
+                           <item>Benevolence.</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p n="1">1. Generall, as in the Parliament,<note place="margin">Ex lib. Rubro in Scaccario ex Ioh. Everſ<g ref="char:EOLhyphen"/>den.</note> wherein they give the King part of their owne by way of retribution one<g ref="char:EOLhyphen"/>ly, as for</p>
+               <p n="1">I. defence of the State: hence grew the ſcr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tage granted to <hi>H.</hi> 2. <hi>R.</hi> 1. King <hi>John</hi> and <hi>H.</hi> 3.</p>
+               <p>To <hi>E,</hi> 2.<note place="margin">Ex hiſtor. Roffenſi. Ex Rot. tem<g ref="char:EOLhyphen"/>pore. Ed. 3. Ex rot. Par. anno 2. 3. 7. R. 2.</note> diverſe Fifteenes and Tenths for his warres againſt the Scots and Welſhmen.</p>
+               <p>The Subſidie of Woolls, and other contributions to <hi>Edw.</hi> 3. for his wars. And the like granted to <hi>Rich.</hi> 2. <hi>an.</hi> 2.3.7. ſo they may be imployed in the wars and particu<g ref="char:EOLhyphen"/>lar Treaſurers to account in Parliament. So in the 8. and 9. <hi>H.</hi> 4, on the like condition.</p>
+               <p>Tonnage and Poundage began <hi>an.</hi> 5. <hi>E,</hi> 3.<note place="margin">Rot. P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r. anno 8. &amp; 9 H. 4.</note> had thence his originall. And therefore 13. <hi>Ed.</hi> 4. and 1. <hi>Hen.</hi> 5. they are granted ſo in expreſſe words, and that they proceed of good will, and not of duty.</p>
+               <p>Preſidents of this nature are plentifull in all the Rolles of Parliament.<note place="margin">Ex benedicto Monacho in vita H. 2.</note>
+               </p>
+               <p n="2">II. For maintenance of Religion and Church as in the yeare 1266.</p>
+               <pb n="8" facs="tcp:197344:6"/>
+               <p>
+                  <note place="margin">Ex Adamo Merioneth.</note>To <hi>H.</hi> 2 was given 12 d. in the pound. And in the 18. of <hi>E.</hi> 1. a Fifteenth was granted to expell the Iewes.</p>
+               <p>
+                  <note place="margin">Ex rot. Par. anno 4 R 2.</note>And <hi>anno</hi> 4. <hi>R.</hi> 2. a Tenth of the Clergy, and Fifteenth of the Commons for his help to ſuppreſſe the <hi>Wicklivian</hi> hereſie.</p>
+               <p n="3">
+                  <note place="margin">Ex Radulpho Cogſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll ex hiſt. Roffenſi. Rot. Par. anno 23. E. 1. 13. E. 3. &amp; 7 H. 4.</note>III. For ſupport of the lawes and liberty of the Com<g ref="char:EOLhyphen"/>mon wealth. So did the Statute to <hi>H.</hi> 3. <hi>an.</hi> 27. for confir<g ref="char:EOLhyphen"/>mation of the great Charter. For the like a Fifteenth was granted 29. or 23. <hi>E.</hi> 1. and 13. <hi>E.</hi> 3. and 7. <hi>Hen.</hi> 4. that the lawes may be executed againſt Purveyors.</p>
+               <p n="4">
+                  <note place="margin">Rot. Par. anno 15. E. 3. N. 16. Ex rot. Par. anno 7. 8. 10. 11. <hi>R.</hi> 2. Ex rot. par. an<g ref="char:EOLhyphen"/>no 4. &amp; 7 H 5. Ex rot. Par. anno 7. E. 4.</note>IV. For redreſſe of the agrievances, as in the 15. of <hi>Ed.</hi> 3. ſo that the King would performe their petitions, or elſe they held themſelves not bound to pay the grant they had given. The like was the 7. 8. 9. 10. and 11. of <hi>R.</hi> 2. The Tenth and Fifteenth granted the 4. and 7. of <hi>Hen.</hi> 5. is upon condition that they lay no impoſitions upon the State. And in the 7. <hi>E.</hi> 4. the State relieveth the King, ſo he will promiſe to live hereafter upon his owne, and not burthen the State: The which he profeſſeth to performe.</p>
+               <p>
+                  <note place="margin">Ex orig. anno 3. <hi>R</hi> 2.</note>And it is to be obſerved, that to improve the Grants of Subſidies to the extreameſt value, there were new Com<g ref="char:EOLhyphen"/>miſſioners appointed to ſurvey and advance mens for<g ref="char:EOLhyphen"/>tunes above the eſtimate of the former taxes. And Com<g ref="char:EOLhyphen"/>miſſions have been granted out, as 3. <hi>R.</hi> 2. to enable him out of his owne by an act of Reſumption of Lands, Offi<g ref="char:EOLhyphen"/>ces,<note place="margin">Clauſ. anno 6. H 3. Rot. ordinat. anno 5. &amp; Cl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſ. anno 9. &amp; 10. E. 2. Rot. Par. anno 1. <hi>R</hi> 2. Rot. Par. anno 1. 2. &amp; 6. H. 4. Ex Rot. Par. anno 1. &amp; 2. H. 5.</note> Annuities, &amp;c. Thus did <hi>H.</hi> 3. <hi>anno</hi> 6.</p>
+               <p>And <hi>E.</hi> 2. <hi>anno</hi> 5. 9. <hi>&amp;</hi> 10. by an Ordination of the Pre<g ref="char:EOLhyphen"/>lates, Earles and Barons.</p>
+               <p>All grants made by <hi>Edward</hi> 3. to unworthy perſons, <hi>R.</hi> 2. reſumed <hi>anno primo.</hi>
+               </p>
+               <p>And by <hi>H.</hi> 4. <hi>anno</hi> 6. all patents for life or yeares ſince the fourth of <hi>E.</hi> 3. were reſumed.</p>
+               <p>At the petition of the people <hi>H.</hi> the 5. revokes all grants out of the principality made to unworthy per<g ref="char:EOLhyphen"/>ſons, and all annuities out of the cuſtomes of Wooll de<g ref="char:EOLhyphen"/>ducting 20000 l'. a yeare out of all other annuall penſi<g ref="char:EOLhyphen"/>ons rateably,<note place="margin">Rot. Par. anno 28. 29. &amp; 33. H. 6.</note> leaving the remain of any to the Patentees.</p>
+               <p>
+                  <hi>H.</hi> 6. <hi>anno</hi> 29. <hi>&amp;</hi> 33. reſumeth in England all Lands, Of<g ref="char:EOLhyphen"/>fices,
+<pb n="9" facs="tcp:197344:6"/> Liberties, and Grants, from <hi>anno</hi> 1.<note place="margin">Rot. Par. anno 4.7. &amp; 12. E. 4. Ex act. Conc. anno 21. H. 6. Rot. Par. anno 2. H. 7.</note> and the like <hi>anno</hi> 21. in Ireland. So did <hi>Edward</hi> the 4. <hi>anno</hi> 4.7. <hi>&amp;</hi> 12. And <hi>H.</hi> 7. <hi>an.</hi> 2. reſumed all grants made by <hi>Ed.</hi> 4. or <hi>R.</hi> 3.</p>
+               <p n="2">2. Particular, by
+<list>
+                     <item>Loanes 1. Voluntary, or</item>
+                     <item>Benevolence, 2. Compulſive.</item>
+                  </list>
+               </p>
+               <p n="1">1. Loanes voluntary,<note place="margin">Rot. Par. an. 13. E. 3. Act. Conc. 20 &amp; 22. H. 6.</note> as upon aſſurance of Bond of the Nobility. So was <hi>William de la Poole</hi> bound for <hi>E.</hi> 3. <hi>anno</hi> 13. in great ſummes. And the Duke of Gloceſter, <hi>anno</hi> 2. <hi>H.</hi> 6. And the Cardinall pawned his ſilver veſſels for <hi>H.</hi> 6. his debt.</p>
+            </div>
+            <div type="part">
+               <head>Pawne upon Jewels.</head>
+               <p>Thus did <hi>H.</hi> 3. <hi>anno</hi> 26. to the Archbiſhop of Yorke:<note place="margin">Clauſ. anno 26. H. 3.</note> and when his owne were at gage, he took <hi>Aurum &amp; Jo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>alia Feretri ſancti Edwardi Confeſſoris,</hi> and pawned them.</p>
+               <p>
+                  <hi>Edward</hi> the firſt imployed one <hi>Andaver ad jocalia ſua impignoranda.</hi>
+                  <note place="margin">Clauſ. anno 29. E. 9.</note>
+               </p>
+               <p>
+                  <hi>Edw.</hi> 2. pawned his jewels to the Lord <hi>Beamont.</hi>
+                  <note place="margin">Rot. Franc. anno 9. E. 2. Com. Inſcript. 30. E. 3. Pat. anno 7. <hi>R.</hi> 2. Henry 4.</note>
+               </p>
+               <p>
+                  <hi>Edw.</hi> 3. pawned <hi>Magnam Coronam Angliae</hi> to Sir <hi>John Weſenham</hi> for 8. yeares.</p>
+               <p>
+                  <hi>R.</hi> 2. pawned <hi>Vaſa<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>a &amp; diverſa jocalia,</hi> to Sir <hi>Robert Knolls.</hi>
+               </p>
+               <p>
+                  <hi>Hen.</hi> 4. <hi>Invadiavit tabellas &amp; treſſellas ſuas Argentent de Hiſpania.</hi>
+               </p>
+               <p>
+                  <hi>H.</hi> the 5.<note place="margin">Pat. anno 5. H. 5. Pat. anno 10. 12. &amp; 29 H. 6.</note> pawned his great Crowne of gold to the rich Biſhop of Wincheſter. And <hi>H.</hi> the 6. to the ſame man then Cardinall, many parcels of his Jewels in the 10. 12. and 29. of his reigne. And the like to many others.</p>
+               <p>And the late Queen to eaſe her people, did the like with her jewels in the Tower, beſides the often Mort<g ref="char:EOLhyphen"/>gage of her Land.</p>
+            </div>
+            <div type="part">
+               <head>Vpon aſſignment of Cuſtomes and Subſidies.<note place="margin">Act. Conc. an. 22. H. 6.</note>
+               </head>
+               <p>So did the Cardinall <hi>Beauford</hi> lend 10000 l'. to <hi>H.</hi> 6. <hi>anno</hi> 22. upon ſecurity of the Cuſtomes of London and Southampton.<note place="margin">Ex billa ſig<g ref="char:EOLhyphen"/>nat. anno 15. H. 6. &amp; 12. E. 4.</note> The King intending to turne the courſe of moſt Trade thither.</p>
+               <p>And <hi>H.</hi> 6. <hi>anno</hi> 15. and <hi>E.</hi> 4. <hi>anno</hi> 12. did ſecure their
+<pb n="10" facs="tcp:197344:7"/> debts, by aſſignment over of the next Subſidie or aid that ſhould be granted from the Church or Laity to them, be<g ref="char:EOLhyphen"/>ing a device (in truth) to draw on a ſupply the ſooner from the State.</p>
+            </div>
+            <div type="part">
+               <head>Vpon the great Seale, or privie Seale.</head>
+               <p>
+                  <note place="margin">Rot. orig. anno 3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. H. 4. M<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ked B B.</note>The great Seale under which they ſhould have (with<g ref="char:EOLhyphen"/>out paying fee) a patent ſealed for repayment of their dues by a day certaine.</p>
+               <p>The privie Seale, which is of late moſt in uſe, and it is worthy of obſervation to ſee the willingneſſe of former times in reſpect of theſe.</p>
+               <p>
+                  <note place="margin">Rot Act. Conc. anno 13. H. 6.</note>In the 13. of <hi>H.</hi> the 4. there is a Roll intituled, <hi>L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> nommes de ceux qui ont da preſter au R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y les ſommes eſcrits.</hi> The Archbiſhop of Canterbury lent 1000 Markes, the Biſhop of Lincoln as much, the Biſhop of Norwich 600. the Biſhop of London 500. Markes, the Biſhop of Bath 400 Markes, the Lord Privie Seale 200 l'. the Clerkes of the Chancery a thouſand Markes.</p>
+            </div>
+            <div type="part">
+               <head>Particular grants of the Subject by Loanes compulſive.</head>
+               <p>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>x <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in. C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nc anno 3. H 5 M<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ked N N.</note>So were the Merchants of <hi>Florence, Venice,</hi> and S. <hi>Luke,</hi> compelled by an order in Counſel, 3. <hi>H.</hi> 5. becauſe they had by grace and ſufferance, <hi>Du Roy grantes, pri<g ref="char:EOLhyphen"/>vileges, &amp;c. reportants grand lucre pour Lex erciſe de Leur Merchandre en le Angleterre.</hi> And the perſons that refuſed to lend, were committed to the Fleet.</p>
+               <p>
+                  <note place="margin">Act Conc. 3. H. 6.</note>Neither were the Engliſh more free in <hi>anno</hi> 3. <hi>H.</hi> 6. divers being enjoyned to attend the Councell Table, or elſe to pay the demanded Loane.</p>
+               <p>
+                  <note place="margin">Ex inſtruct. Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. 14. H. 8.</note>In the time of <hi>H.</hi> 8. <hi>anno</hi> 14 of his reigne, he exacted by way of Loane, 10 l'. in the 100. of all Goods, Jewels, U<g ref="char:EOLhyphen"/>tenſils and Land, according to the extreameſt rate revea<g ref="char:EOLhyphen"/>led by oath, of the poſſeſſions, notwithſtanding there is a law 2. <hi>R.</hi> 2.<note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. R 2.</note> That none ſhall be denied (in demand of any Loane,) his reaſonable excuſe.</p>
+            </div>
+            <div type="part">
+               <pb n="11" facs="tcp:197344:7"/>
+               <head>Particular grants of the Subject by Contribution, or benevolent Gifts.</head>
+               <p>Theſe were of old uſuall and free: therefore called,<note place="margin">Ex <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>harta Ep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ant. rot. Cl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſ. 29. E. 1. clauſ. 35 E. 3.</note> 
+                  <hi>Liberalitas populi</hi> by <hi>R.</hi> 1. and <hi>Curialitas</hi> by <hi>E.</hi> 1. <hi>E.</hi> 3. <hi>H.</hi> 4. And H. 5. confeſſed them to proceed <hi>Ex ſpontan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a voluntate, nec de ju<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o vindicare poteſt.</hi> Yet did H. 6, <hi>anno</hi> 20. in an Inſtruction to Commiſſioners imployed in pro<g ref="char:EOLhyphen"/>curing a benevolence, ſay, that foraſmuch as by the Law he might compell all his Subjects,<note place="margin">Ex inſtru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ti<g ref="char:EOLhyphen"/>one <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rig. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>no 2. H 8.</note> and at their owne charge to attend his warres, hee was contented to ſpare ſuch as would contribute but as much after his degere and reputation,, as two dayes in his perſonall ſervice would ſtand him in; thereby implying a neceſſity in them to give, to eſcape a further expence. This Law upon which H. 6. grounded himſelfe, was by a Statute in Queen <hi>Maries</hi> time repealed; and that ſince repealed: this laſt year hath made a reviving of the former, where<g ref="char:EOLhyphen"/>by the King is remitted into his former advan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>age,<note place="margin">Ex act Par. anno 5. Ma<g ref="char:EOLhyphen"/>riae.</note> and the ſubject in the former miſchiefe. And 8. H. 8. <hi>anno</hi> 17. although he moveth for a benevolence, hee ſought it with no other ſtile then <hi>Amicable grant,</hi> yet hee threat<g ref="char:EOLhyphen"/>ned the refuſers with convention before his Councell, and confiſcation of goods.</p>
+            </div>
+            <div type="part">
+               <head>The Kings raiſe money, and improve the Revenues of the Crowne,</head>
+               <p>By power abſolute in the Soveraigne in the diſpoſing
+<list>
+                     <item>1. Lands.</item>
+                     <item>2. Merchandiſe.</item>
+                     <item>3. Regalities.</item>
+                  </list>
+               </p>
+               <p n="1">1. Lands, as by ſelling, which hath been often and old, if they were not of the ancient demeaſne lands, which our fore-fathers held impious to alienate from the <hi>Crown.</hi> And thoſe were ſuch Lands as go under the title of <hi>Ter<g ref="char:EOLhyphen"/>ra Regis,</hi> in the book of <hi>Doomſday,</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ber Doomeſday.</note> and were the lands of <hi>Edward</hi> the Confeſſor: of other lands I never obſerved queſtion, neither doe ever finde that acts of Reſumption ever reached to lands that were ſold for valuable conſi<g ref="char:EOLhyphen"/>deration.</p>
+               <pb n="12" facs="tcp:197344:8"/>
+               <p>By paſſing in Fee <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arme, except places of the Kings re<g ref="char:EOLhyphen"/>ſidence, Parkes, ſpacious waſtes, or Forreſts, all the lands of the Crowne, which remaines either in the annexati<g ref="char:EOLhyphen"/>on, cuſtody, land<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, or the Queenes joincture, and ex<g ref="char:EOLhyphen"/>ceed not yearly 32000 l'. Theſe although largely eſtated out in ſeverall natures, ſome for lives, ſome for yeares, will one with the other bee advanced to a treble rent, which amounting to 96000 l'. leaving an annuall im<g ref="char:EOLhyphen"/>provement of 64000 l'. And if the offer be not made re<g ref="char:EOLhyphen"/>ſtrictive for the new Tenant, there is no doubt but his Majeſty ſhall finde ready and hearty undertakers amongſt the Gentry and Nobility too, who have any place of re<g ref="char:EOLhyphen"/>ſidence neere any of his Majeſties Manors. And the Kings ſecurity the better, ſince their abilities will ſettle the Fee-farme rent upon more land then the purchaſe.</p>
+               <p>If any ſhall object againſt this a loſſe by fines and pro<g ref="char:EOLhyphen"/>fits of Courts, a prejudice in not ſerving neceſſity (as of late) by ſales or diminution of Regalities in ſeiſure of ſo many Royalties.</p>
+               <p>It may be anſwered to the firſt, that the caſuall profits of Courts, never defrayed to the preſent Officers their fee and expences. And this appeareth from a collection made the 44. yeare of the late Queene, where the totall iſſue of ſuch certain charge exceeded the receipt of ſuch chances above 8000 l'.</p>
+               <p>To the ſecond, if looking upon the ſeverall Rates of the Kings lands expoſed to Fee-farme ſales, we finde ſome of 50. others at 21 yeares, as to the late contractors, and make out of theſe extreams a <hi>Medium</hi> of the largeſt forty yeares, and ſet on the other ſide the common and current eſtimate for d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad rents 15 yeares purchaſe, we muſt finde that 5 l'. land ſold unimproved reſpectively to the like trebled by a Fee-farme will be 250 l'. loſſe to his Maje<g ref="char:EOLhyphen"/>ſty in the ſale. As for Regalities, though it may adde ſomewhat to the Subject in increaſing ſuch his petty command, it can nothing to a Soveraigne, whoſe tran<g ref="char:EOLhyphen"/>ſcendent power drowneth in it all ſuch ſubordinate De<g ref="char:EOLhyphen"/>pendencies and Regards.</p>
+               <pb n="13" facs="tcp:197344:8"/>
+               <p>But if we conſider beſides the former improvement the encreaſe of caſual advantage at diminution of certain charge, wee ſhall have juſt cauſe not to continue this courſe.</p>
+               <p>For if the Commiſſioners in this buſineſſe may be or<g ref="char:EOLhyphen"/>dered by inſtruction to reſerve upon every Mannor of above 30. l'. <hi>per annum,</hi> a tenure in a Knights ſervice by halfe a Fee and of above 50 l' <hi>in Capite.</hi> by an intire fee, and by the purchaſe to pay his Rent into the receipt himſelfe, halfe yearly, and ſtrike there his Tally; the for<g ref="char:EOLhyphen"/>mer will advance the Revenue accidentall of the Crowne in Wardſhips, primer ſeiſin, Alienations and Aides, and the latter cut off at once ſo many their unne<g ref="char:EOLhyphen"/>ceſſary Receivers, Auditors, Stewards, Bailiffes, and Clarks, as ſtand the King in yeerly above 12000. l'. As for other dues or caſuall Revenues, which now fall under the charge of theſe Officers: The collection and pay<g ref="char:EOLhyphen"/>ment may be as it hath been with the reſt, from the time of <hi>H.</hi> 2. untill of late dayes laid <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on the Sheriffes of the Shires, and all the accompts left to the two Auditors of the preſſe to draw up, and the Clerkes of the Pipe to en<g ref="char:EOLhyphen"/>ter in <hi>Magno Rotulo,</hi> as in former times; for it muſt ſeeme ſtrange to all men of judgement, that it ſhould be with thoſe Officers who had their beginning but ſince the 25. yeare of King <hi>Henry</hi> the eight, by addition of his new Revenue of 150000 l'. from the ſuppreſſed Mona<g ref="char:EOLhyphen"/>ſteries, otherwiſe then with all things in Nature and reaſon <hi>Ceſſante cauſa &amp; effectus,</hi> not to be diſcontinued when as all Crown annexed. Lands that gave them their juſt imployment for the moſt part paſſed from the Sove<g ref="char:EOLhyphen"/>raigne into the Subjects poſſeſſion.</p>
+               <p>Beſides this of a generall diſpoſing in Fee Farme, there hath been a project in particular to infranchiſe the Copyholders in the ſeveral Manors which I ſhould hold to be of more prejudice to his Majeſty, then the other, bringing with it all the former inconveniences, loſſe of Fines, Regalities, and advantages of Sale, and being without many of the advantages, as Wardſhips, Primer
+<pb n="14" facs="tcp:197344:9"/> ſeiſin, Alienation, and Aids; for no man will buy quil<g ref="char:EOLhyphen"/>lets but in ſoccage, and diſcontinuance of Officers, who muſt ſtill remaine, though they can bring but l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ttle be<g ref="char:EOLhyphen"/>nefit.</p>
+               <p n="2">
+                  <note place="margin">Rot Par. anno 7 H. 4.</note>2. By farming out for yeares, Lands, Caſualties, or Waſtes, as in the 7. of <hi>H.</hi> 4. the State held it more juſt to helpe the King out of his owne, then to burthen the common-wealth, and therefore gave way by Parlia<g ref="char:EOLhyphen"/>ment to the King, to improve up his Lands, though in Lands, though in Leaſe, provided that the Leſſee ſhould have refuſall of the bargaine if he would.</p>
+               <p>
+                  <note place="margin">Rot <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. anno 2. E 1.</note>
+                  <hi>Edw.</hi> the 1. <hi>anno</hi> 2. granted a Commiſſion to farme out all ſuch Waſte <hi>quod abſque injuria alterius ſieri poteſt.</hi> And in <hi>anno</hi> 15. aſſerted a great part of his Woods for rent, and diſſafforreſted in moſt Counties of England for a ſumme of money which they gave him.<note place="margin">Rot. Par. a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 0 15. E. 1.</note>
+               </p>
+               <p>And it was not the leaſt of charitable thrift in the King, to reduce much of his waſte to habitation of Chri<g ref="char:EOLhyphen"/>ſtians, eſpecially the remote Forreſts, which would en<g ref="char:EOLhyphen"/>creaſe many thouſand families for his ſervice, and bring many thouſand pounds to his Coffers. But in the carri<g ref="char:EOLhyphen"/>age of this buſineſſe there muſt be much caution to pre<g ref="char:EOLhyphen"/>vent commotion: for in them there are many that have right in Common, <hi>ſans numbre.</hi> And the reſolution in a<g ref="char:EOLhyphen"/>greement with them muſt be ſudden, and confident: for multitudes are jealous and inconſtant, and the inſtru<g ref="char:EOLhyphen"/>ments to effect this, muſt be ſuch as be neighbours inte<g ref="char:EOLhyphen"/>reſſed and popular, not ſtrangers.</p>
+               <p>And the firſt demiſe to the Inhabitants, and at under and eaſie values.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>3,</hi> By manuring of Lands.</head>
+               <p>
+                  <note place="margin">R t. C<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>no 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 3. M <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</note>Thus did <hi>H. anno</hi> 13. in removing out of moſt of his Parkes (as <hi>Gillingham, Brigſtocke, Chiffe, Woodſtocke, Have<g ref="char:EOLhyphen"/>rell</hi>) all mens Cattell <hi>pro bobos, pro lardaria Regis in parcis praedi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> is impinguendis.</hi> And <hi>E.</hi> 1. commanded all the Eſ<g ref="char:EOLhyphen"/>cheators in England, <hi>ex colore ſeminar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> &amp; appropriare ad maximum Regis proficium omnes terras quae Regi &amp; Corona ſuae devonerint per mortem aliquorum vacatione Epi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>copa<g ref="char:EOLhyphen"/>tum,</hi>
+                  <note place="margin">R<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 2. &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> b 1.</note> 
+                  <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:197344:9"/>
+               <head>The Kings raiſe money, and improve the Revenewes of the Crowne.</head>
+               <p>
+                  <hi>By Merchandiſe</hi>
+                  <list>
+                     <item>1 <hi>Trading themſelves.</hi>
+                     </item>
+                     <item>2 <hi>Licencing others to Trade Commodities,</hi>
+                     </item>
+                     <item>3 <hi>Improving Cuſtomes</hi>
+                        <list>
+                           <item>1 <hi>Lawfull.</hi>
+                           </item>
+                           <item>2 <hi>Vnlawfull.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p n="1">1 Trading themſelves, thus did <hi>Edw.</hi> 1. Anno 22.<note place="margin">Rot. voſcon. <hi>22.</hi> E. <hi>1.</hi>
+                  </note> who ſeiſed into his hands all the Woolls in the Kingdome as the Merchants were lading them in the Ports, giving them ſecurity of payment at a long day and a ſhortprice; and then tranſported them to his owne beſt and readieſt ſale.</p>
+               <p>Thus did <hi>Edw.</hi> 3. Anno 12. with all the Tinne and <hi>H.</hi> 6.<note place="margin">Rot. Almgne <hi>12.</hi> E. <hi>3.</hi> Act. Conſ. An. <hi>20.</hi> H. <hi>6.</hi>
+                  </note> Anno 20. by advice of his Counſell tooke up by way of purveyance a great quantity of Graine, and tranſported it into Caſcoigne, where by reaſon of a Dearth the price was extreame, and in Anno 31. he arreſted all the Tinne in <hi>South<g ref="char:EOLhyphen"/>hampton,</hi> and ſold it to his owne preſent uſe, and in the yeare following uſing the advantage of the Statute which bound all men to trade the Staple commodities to no other place but Calice,<note place="margin">Ex billa ſignat. An. <hi>31.</hi> &amp;. <hi>32</hi> H. <hi>6.</hi>
+                  </note> vented himſelfe many ſackes of wooll to other Ports of better advantage.</p>
+               <p>And the late Queene Anno 1567.<note place="margin">Warrant ſub. privat ſigillo An. <hi>9.</hi> Eliz. Reginae.</note> cauſed by Warrant of privie Seale a great quantity of Beere to be purveyed, tranſ<g ref="char:EOLhyphen"/>ported and ſold to her owne uſe beyond the ſeas.</p>
+               <p n="2">2 <hi>By lycencing others to trade Commodities</hi>
+                  <list>
+                     <item>1 <hi>Lawfull or</hi>
+                     </item>
+                     <item>2 <hi>Vnlawfull.</hi>
+                     </item>
+                  </list>
+               </p>
+            </div>
+            <div type="part">
+               <head>Firſt Lawfull but ſolely.</head>
+               <p>Thus did <hi>H,</hi> 6.<note place="margin">Rot. Par. An. <hi>29.</hi> H. <hi>6.</hi> N. <hi>15</hi>
+                  </note> by approbation of Parliament with all the trade of Allome for two yeares, granted to the Merchants of
+<pb n="16" facs="tcp:197344:10"/> 
+                  <hi>South-hampton</hi> for 8000. pound, and againe for the like ſumme to thoſe of <hi>Geneway.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Secondly, Vnlawfull or prohibited.</head>
+               <p>Thus did many of the Kings after ſuch time as the heavy burthen of impoſition began in the miſerable neceſſity of <hi>H.</hi> 3. called then by no better name then <hi>Maltolt,</hi> and conti<g ref="char:EOLhyphen"/>nued untill the 15:<note place="margin">Rot. Claus. An<g ref="char:EOLhyphen"/>no <hi>19.</hi> H. <hi>3.</hi>
+                  </note> yeare of <hi>R.</hi> 2. by diverſe intermiſſions, (for then I find the laſt Petition of many in Parliament a<g ref="char:EOLhyphen"/>gainſt it) was altogether taken away.</p>
+               <p>
+                  <note place="margin">Rot. Par. <hi>15.</hi> R. <hi>2.</hi>
+                  </note>For when <hi>R.</hi> 2. and his Succeſſors found the Revenue leſſe<g ref="char:EOLhyphen"/>ned, by the importunate cry of the people, whereby impoſiti<g ref="char:EOLhyphen"/>ons were laid aſide, then began to adviſe an other ſupply out of the unbounded Prerogative, and finding a greedy deſire of one Merchant to prevent another of his market (reſtrained by that Statute which tyed them to one time,<note place="margin">Ex. Bill. Signar Anno <hi>20.</hi> R <hi>2.</hi>
+                  </note> and one Port Calice for all Staple commodities) they uſed to ſell Licenſes with clauſe of <hi>Non obſtante,</hi> whereby they diſpenced with multitudes to trade what commodities, and to what places they would. To the Merchants of New Caſtle, <hi>R.</hi> 2. gave leave to carry Wooll Fells &amp;c, to any Port beſides Calice, upon condition that they ſhould pay for them Cuſtome and Subſidie according to <hi>Le ſage diſcretion de vous &amp; voſtre Councel,</hi> to diverſe Citizens of London <hi>H.</hi> 4. in like ſort diſ<g ref="char:EOLhyphen"/>penceth for great quantities of Tynne for ſeaven yeares pay<g ref="char:EOLhyphen"/>ing 1000.<note place="margin">Ex Pet. Anno <hi>7,</hi> H <hi>4</hi> Ex. Pet Anno <hi>5</hi> R. <hi>6.</hi> Ex. Act. Com.</note> yearely above the cuſtome <hi>H.</hi> 6. <hi>Anno</hi> 5.21. 30. reneweth to the Towne of New Caſtle the ſame Licenſe they had <hi>Anno</hi> 20. <hi>R.</hi> 2. and granteth 600. ſacks of wooll to <hi>Benedict Benony,</hi> Merchant of Florence with an <hi>obſtante</hi> any Statute or reſtraint. In this yeare ſuch Licenſes were ſo frequent that the Towne of Calice complained in Parliament of their decay thereby, yet without reliefe as it ſeemeth, for the ſame King <hi>Anno</hi> 36. giveth leave to <hi>Lawrence Barbarico</hi> to tranſport from London or Ciciſter 12000.<note place="margin">Ex. B ll<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Orig An. <hi>10.</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>4.</hi>
+                  </note> ſacks of Wooll to what Ports he liſt, and <hi>Edward</hi> the 4. <hi>Anno</hi> 10. borrow<g ref="char:EOLhyphen"/>ing
+<pb n="17" facs="tcp:197344:10"/> 10000. pound of diverſe Merchants permitted them <hi>non obſtante,</hi> any Law to carry any Staple Commodities to the ſtraights of <hi>Morocco</hi> untill they were ſatisfied their ſumme.</p>
+               <p>
+                  <hi>H.</hi> 7. raiſed much money by giving leave to many Mer<g ref="char:EOLhyphen"/>chants to trade inward and outward commodities prohibi<g ref="char:EOLhyphen"/>ted, as to <hi>Alonſo de Burgues</hi> great proportions of Wood, <hi>Anno</hi> 6. <hi>H.</hi> 7.<note place="margin">Ex. lib. Comp. int. H <hi>7 &amp;</hi> Dud<g ref="char:EOLunhyphen"/>ley.</note> and to a multitude of others all kinds of graine and other forbidden things: as in <hi>Anno</hi> 20, 21, 22.</p>
+               <p>
+                  <hi>Improving of Cuſtomes by</hi>
+                  <list>
+                     <item>1. <hi>Farming out of Ships</hi>
+                     </item>
+                     <item>2. <hi>Raiſing the booke of rates</hi>
+                     </item>
+                     <item>3. <hi>Farming the Cuſtomes.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="1">1.<note place="margin">Ex. lib. H. <hi>7.</hi>
+                  </note> Farming out of Ships to the Merchants and taking ſe<g ref="char:EOLhyphen"/>curity of them either to bring in or carry out yearly as much Commodities as ſhall yeeld the King in Cuſtomes the ſumme agreed on, or elſe to make it up out of their own money thus did <hi>H.</hi> 7. many years not only with his ſhips, but with divers ſtocks of money.</p>
+               <p n="2">2.<note place="margin">Rot. Claus <hi>29. E. 1.</hi> Rot. Almaigne <hi>3.</hi> E. <hi>3.</hi> Extract. Brux. Ell<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> Raiſing the booke of Rates this was in ſome ſort done <hi>Conſenſu Mercatorum</hi> by <hi>Ed.</hi> 1. and <hi>Ed.</hi> 3. And againe in <hi>H.</hi> 8. time of which the houſe of <hi>Burgundy</hi> complained as a<g ref="char:EOLhyphen"/>gainſt the treaty of entercourſe, and of late ſo ſtretched, as it is feared it will prove the overthrow of Trade. Neither doe I finde this courſe at any other time, as a branch of this may partly fall out, the benefit Princes made by Preroga<g ref="char:EOLhyphen"/>tive power of impoſing inward and outward upon Commo<g ref="char:EOLhyphen"/>dities over and above the ancient Cuſtome or Subſidie.</p>
+               <p>The firſt that uſed this courſe after the State was ſetled from a King of a Voluntary government after the Conqueſt (when as Kings ruled more by the edge of the ſword then by rule of Law was <hi>H.</hi> 3. about the entrance of his Reigne,<note place="margin">Mag. Charta. <hi>Dors claus, An</hi> 16. <hi>H</hi> 3. <hi>N.</hi> 20.</note> but finding it to bee an apparent overthrow of Commerce and Trade, againſt the great Charter, made proclamation Anno. 16. <hi>H.</hi> 3. in all the Ports of England that all Mer<g ref="char:EOLhyphen"/>chants might come <hi>faciendo rectas et debitas conſuetudines
+<pb n="14" facs="tcp:197344:11"/> ſed tibi timeant de Maliſtoltis</hi> for it had no better name then <hi>Maltolts.</hi>
+                  <note place="margin">Stat An. <hi>25.</hi> E. <hi>1.</hi>
+                  </note> Some Impoſitions being laid by <hi>Ed.</hi> 1. he in <hi>An<g ref="char:EOLhyphen"/>no</hi> 25. taketh them away with promiſe that neither hee nor his Succeſſours ſhould doe any ſuch thing without aſſent of Parliament,<note place="margin">Rot. Par. <hi>31.</hi> E. <hi>1.</hi> M. <hi>42.</hi>
+                  </note> granting in <hi>Anno</hi> 31. to the Merchants many immunities as releaſe of priſage for which they requite him with ſome encreaſe of Cuſtomes, but not as impoſed by his owne power,<note place="margin">
+                     <hi>Stat.</hi> 34 <hi>E.</hi> 1. <hi>Ca</hi> 1. <hi>&amp;</hi> 2.</note> for he in <hi>Anno</hi> 34. declareth that no tallage or ayde ſhould bee levyed without the aſſent of Parliament nor nothing to be taken of wools by colour of <hi>Maltolt,</hi> in <hi>E.</hi> 2. it appeareth that levying of new Cuſtomes, and rai<g ref="char:EOLhyphen"/>ſing olde, was the deſtruction of Traffique, and therefore repealeth all Maltolts, onely in <hi>Anno</hi> 11. &amp; 12. he taketh by way of Loane,<note place="margin">Rot. Cl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us An. <hi>11.</hi> E. <hi>2</hi>
+                  </note> and with leave of the Merchant, ſome for<g ref="char:EOLhyphen"/>mer encreaſe upon wooll, aſcribing nothing to any ſupream power to impoſe.</p>
+               <p>
+                  <note place="margin">Rot. Finem <hi>4</hi> E. <hi>3.</hi>
+                  </note>The like did <hi>E.</hi> 3. <hi>Anno</hi> 1. confirming in <hi>Anno</hi> 2. the great Charter for free Traffique. But having about <hi>Anno Quinto</hi> granted certaine Commiſſions for a new kinde of rayſing Tallage,<note place="margin">
+                     <hi>Stat.</hi> 2. <hi>E.</hi> 3. <hi>Ca.</hi> 9.</note> rhe people complayned the yeare follow<g ref="char:EOLhyphen"/>ng whereupon he repealeth the ſaid Commiſſions, and pro<g ref="char:EOLhyphen"/>miſeth never to aſſeſſe any,<note place="margin">Stat. An <hi>11</hi> E <hi>3.</hi> Cap <hi>1.</hi>
+                  </note> but as in time of his Anceſtors After in <hi>Anno</hi> 11. by reaſon of a Statute then made, reſtrai<g ref="char:EOLhyphen"/>ning all men upon paine of death from tranſporting any woolls without Licence from the King and Councell.<note place="margin">Rot. Almaine <hi>12,</hi> E. <hi>3.</hi> M. C. <hi>22,</hi> in Dorſ</note> E. 3. made great advantage by ſelling of diſpenſations of that Law, and grounded upon it many impoſitions, but it fell ſo heavy upon the people, that their diſcontents ſo farre in<g ref="char:EOLhyphen"/>creaſed that the King was enforced to cauſe the Archbi<g ref="char:EOLhyphen"/>ſhop of Canterbury to perſwade them to patience by his godly exhortations,<note place="margin">Stat. <hi>13.</hi> E. <hi>3.</hi> Rot. Par<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>13.</hi> E Stat, <hi>14.</hi> E <hi>3.</hi>
+                  </note> yet notwithſtanding hee continued by gentle intermiſſions the advantage hee had by that Law, ta<g ref="char:EOLhyphen"/>king an improvement of Cuſtome for opening the paſſage, that thereby was ſhut in. <hi>Anno</hi> 13. untill the ſame yeare the State made purch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe of their former freedome and diſcharge of the Maltolt by granting the tenth Sheafe and fleece, &amp;c.</p>
+               <pb n="19" facs="tcp:197344:11"/>
+               <p>And thus it continued all his Raigne, being a time of great neceſſity and expence by reaſon of the warrs, he ſometimes taking the advantage either to raiſe an impoſition, or elſe to gaine an aide from the people in diſcharge thereof, they con<g ref="char:EOLhyphen"/>tinually urging the injury in barring them their Birth-right; and the King on the other ſide, the greatneſſe of his owne occaſions, and it may be gathered by Record, that thus it held on, untill the fifteenth of <hi>R.</hi> 2. in which yeare is the laſt Petition againſt Impoſitions generally grounded (in likeli<g ref="char:EOLhyphen"/>hood) from the Kings power in reſtrayning or permitting trade all the time after: though Licenſe with <hi>Non obſtante</hi> were ordinary,<note place="margin">Lcience gran<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d by H. <hi>4.</hi> H. <hi>5.</hi> H. <hi>6.</hi> to many Mer<g ref="char:EOLhyphen"/>chants with <hi>Non obſtante</hi> any Statute.</note> yet were they to private perſons and for par<g ref="char:EOLhyphen"/>ticular proportions of commodities, whereby the King ſuc<g ref="char:EOLhyphen"/>ceeding raiſed no leſſe benefit then by ſale of any generall permiſſion.</p>
+               <p>To this of impoſitions I may adde the Rule I find Anno 20. <hi>H.</hi> 6. made in counſell, That all goods for payment of Subſidie ſhall berated of commodities domeſtick, as they may be ſold betweene Merchant and Merchant; and if forraine, then ſo as it ſhall appeare upon Oath of the Merchant or his Factor they ſtood them in at the firſt, and the generall Maxime which limits all Regall advantage upon Trade of Merchants is, <hi>Vt cauſa honeſta ſit &amp; neceſſaria, ratio facili<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> tempus idoneum.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Farming out of Cuſtomes.</head>
+               <p>So did <hi>Ed.</hi> 3.<note place="margin">Claus Au. <hi>5.</hi> E. <hi>3.</hi> Orig. <hi>17.</hi> E. <hi>3.</hi> Rot.</note> with the new and old cuſtomes at London for 1000. Markes monethly to be paid into the Wardrobe.</p>
+               <p>The like he did Anno 17. <hi>R.</hi> 2. Anno 20. letteth out for terme of life the Subſidie of Cloth in diverſe Countries, and <hi>E.</hi> 4. Anno 1. the Subſidie of ulnage of Cloth. Thus did <hi>H.</hi> 8. with his Cuſtomes, and ſince his time the late Queene, and our late Soveraigne Lord King <hi>Iames,</hi> and it was ſo then in uſe in the beſt govern'd State <hi>(Rome)</hi> which let out their portions and Decims to the Publicans.</p>
+            </div>
+            <div type="part">
+               <pb n="20" facs="tcp:197344:12"/>
+               <head>Kings raiſe money, and improve the Revenewes of the Crowne.</head>
+               <p>
+                  <hi>By Regalities</hi>
+                  <list>
+                     <item>1 <hi>Temporall or</hi>
+                     </item>
+                     <item>2 <hi>Mixt.</hi>
+                     </item>
+                  </list> 
+                  <hi>As for</hi>
+                  <list>
+                     <item>1 <hi>Liberties &amp;c.</hi>
+                     </item>
+                     <item>2 <hi>Penalties of Lawes.</hi>
+                     </item>
+                     <item>3 <hi>Letters of favour.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="1">1 Liberties in granting reſtraining or renewing them.</p>
+               <p>It is a courſe uſuall that the Kings have raiſed money by calling in queſtion the Charters and Liberties of Corporati<g ref="char:EOLhyphen"/>ons, Leetes, free Warrens, and other Royalties.</p>
+               <p>Thus did <hi>R.</hi> 1. proclaiming <hi>Quod omnes Chartoe &amp; con<g ref="char:EOLhyphen"/>firmationes quae prioris Sigilli impreſſione roboraverint irrita forent niſi porſteriori ſigillo roborentur.</hi>
+                  <note place="margin">Ex. Rado. Cog<g ref="char:EOLhyphen"/>ſh ll.</note>
+               </p>
+               <p>And <hi>H.</hi> 3. Anno 10. enjoyned all <hi>qui ſuis volebant libertatibus gaudere, ut innovarent Chartas ſuas, de nova regio ſigillo</hi> getting money thereby.</p>
+               <p>
+                  <hi>Edw.</hi> 1. by diverſe Commiſſions, with Articles called <hi>Articuli de Ragman</hi> annexed to them,<note place="margin">Rot. Ragman. Anno <hi>7.</hi> E. <hi>1.</hi>
+                  </note> called in queſtion about Anno 7. all the liberties and freedomes of England, <hi>Gilbert de Thornton</hi> his Attourney putting in information by <hi>quo warranto</hi> againſt all perſons, as well bodies politicke as others, whereby they are inforced anew to renew their Char<g ref="char:EOLhyphen"/>ters, and Fine for their Liberties.</p>
+               <p>
+                  <note place="margin">Ex. quo War<g ref="char:EOLhyphen"/>rant, <hi>13.</hi> E <hi>3.</hi>
+                  </note>The like was in Anno 13. <hi>E.</hi> 3. in whoſe time Anno 9. Al clauſes of allowances by Charter of Amerciaments, Fines, &amp;c. impoſed by the Kings Miniſters upon any of the Te<g ref="char:EOLhyphen"/>nants of other men, were adjudged voyd, and the penalties made payable to the Kings Officers,<note place="margin">Com. term. Hill. An <hi>9.</hi> E <hi>3. 9. 3.</hi> Rot. <hi>8.</hi>
+                  </note> unleſſe they made a new purchaſe of their Liberties; and this was one of the uſu<g ref="char:EOLhyphen"/>alliſt and eaſieſt meanes to raiſe money from the people, be<g ref="char:EOLhyphen"/>cauſe it lighteth only upon the beſt abilities, and if there were now but twenty pound taken of every Corporation, of every
+<pb n="21" facs="tcp:197344:12"/> Perſon that holdeth by Charter his liberties 50. pound for renewing of them. And of every one that claimeth by pre<g ref="char:EOLhyphen"/>ſcription ten pound for purchaſe of a Charter. All which would bee eaſie and acceptable, it would amount to above one hundred thouſand pound.</p>
+               <p n="2">2. For penall Lawes they have been ſometime, but with ill ſucceſſe wrought upon.</p>
+               <p>When <hi>R.</hi> 2. <hi>Anno</hi> 22. began his Courſe,<note place="margin">Inſtruct. Orig. <hi>22.</hi> R. <hi>2.</hi>
+                  </note> appointing in all his Commiſſions <hi>Buſhey</hi> onely to be of the <hi>Quorum</hi> for compounding with Delinquents it wrought in the affections of his people ſuch diſtaſte, that it grew the death of the one, and depoſition of the other,</p>
+               <p>No leſſe fatall was the like to <hi>Empſon</hi> and <hi>Dudley,</hi>
+                  <note place="margin">Proc. contra <hi>Dudley</hi> An. <hi>1.</hi> H. <hi>8.</hi>
+                  </note> and there is no ſtring will ſooner jar in the Common-wealth then this if it be generally touched.</p>
+               <p n="3">3. For Letters of favour either for mitigation or diſpatch of Iuſtice.</p>
+               <p>Of the firſt ſort there be many found in <hi>H.</hi> 6. and <hi>E.</hi> 4. their times, ſometimes of Protection, although by courſe of the Common Law, none are warrantable but to ſuch as are going in <hi>Obſequium Regis,</hi> or <hi>Ibidem Moraturi,</hi> ſome<g ref="char:EOLhyphen"/>times freeing men from Arreſts by calling them up to appear before the Kings Councell, ſometimes in caſes highly crimi<g ref="char:EOLhyphen"/>nall, releiving the Priſoner, in commanding the Judges to make ſtay of all proceedings upon ſuppoſall of indirect pra<g ref="char:EOLhyphen"/>ctiſes untill the King was better informed.</p>
+               <p>Of the ſecond ſort there are many in <hi>H.</hi> 7.<note place="margin">Lib. Acquit. inter. H. <hi>7.</hi> &amp; <hi>Dudley.</hi>
+                  </note> his time where the King hath taken for writing to the Iudges of Aſ<g ref="char:EOLhyphen"/>ſize, money for his Letters of favour.</p>
+               <p n="4">4. For Offices thus did King <hi>Iohn</hi> with the Chancellor<g ref="char:EOLhyphen"/>ſhip, ſelling it for terme of life to <hi>Gray</hi> for five thouſand Markes.</p>
+               <p>Divers Offices now in the gift of the Maſter of the Rolls were engaged to the Chancellor and Treaſurer of England, as are to be found in Records of <hi>H.</hi> 4. <hi>H.</hi> 5. and <hi>H.</hi> 6. to bee paſſed by warrant under the Kings hand and upon
+<pb n="22" facs="tcp:197344:13"/> ſome Conſiderat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on. And <hi>H.</hi> 7. renewed this courſe uſing <hi>Dudley</hi> as his inſtrument to compound with Suitors for thoſe and any other places, and by that Record we finde the Chan<g ref="char:EOLhyphen"/>cellor the chiefe Iuſtice the Keeper of moſt of the Record, the Clerks of the Aſſizes and peace, the Maſters of the game and Parkes, and what elſe carrying either profit or reputation paid to the King,<note place="margin">Familius in vi<g ref="char:EOLhyphen"/>ta <hi>Lewis 12.</hi>
+                  </note> ſome proportion of money for their pla<g ref="char:EOLhyphen"/>ces. Neither is this different from the courſe of other States for in France, <hi>Lewis</hi> the 12. (called the father of his Coun<g ref="char:EOLhyphen"/>trey) did ſo with all the Offices not being of Iudicature which his Succeſſors did not forbeare.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Vaſques C.</hi> 12, 40, 43.</note>In Spaine it is uſuall and <hi>Vaſques</hi> the Spaniſh Advocate and <hi>Charles</hi> the fifth. precſribeth it to his ſonne as a rule in his laſt inſtruction drawing his ground of reaſon and Con<g ref="char:EOLhyphen"/>venience from the example and practice of the Sea of Rome.<note place="margin">Inſtruct. Car. <hi>5</hi> to Phil. <hi>2.</hi>
+                  </note>
+               </p>
+               <p>The like might bee of all inferior promotions that are or may bee in the Kings Guift whether Eccleſiaſticall or Tem<g ref="char:EOLhyphen"/>porall, if they were after the true value in profit and reputa<g ref="char:EOLunhyphen"/>tion liſted into rankes according to the ſeverall Natures of their imployments reſpectively.</p>
+               <p n="5">5 For honour, and that either by power legall or election.</p>
+               <p>Of the firſt it is onely in reſpect of Land whereby every man is to find, when the King ſhall require that hath ability to bee made a Knight and is not. Of this ſort there is plenty of examples. The other out of choice and grace; As <hi>Hugo de putiaco</hi> Biſhop of Durham was by <hi>King R.</hi> 1. created Earle of Northumberland for a great ſumme of money, And I doubt not but many of theſe times, would ſet their ambition at as high a price. And for his Majeſtie now to make a degree of Honour he<g ref="char:EOLhyphen"/>reditary as Barronets next under Barons, and grant them in Tayle taking of every one a thouſand pound. In Fine it would raiſe with eaſe ten thouſand pound. And by a Iudicious election be a meanes to content thoſe worthy Per<g ref="char:EOLhyphen"/>ſons in the Common-wealth, that by the confuſed admiſſion of Many Knights of the Bath held themſelves all this time diſgraced.</p>
+               <pb n="23" facs="tcp:197344:13"/>
+               <p n="6">6 For Coyne and Bullion by which although ſome Kings out of a laſt ſhift have ſeemed to relieve them<g ref="char:EOLhyphen"/>ſelves, yet was it (in truth) full of danger and diſ<g ref="char:EOLhyphen"/>truſt to the Common-wealth being aſſured token of a Bankerupt State, and to the Prince in concluſion of moſt diſadvantage, for the Revenewes of the Crowne being commonly in certaine Rents they muſt in true value, howſoever in verball ſound bee abated to the propor<g ref="char:EOLhyphen"/>tion that the money ſhall bee abaſed, and every man will rate his Commodity in ſale, not according to the accompt of pence or pounds, but to the weight of the pure Silver contained in the current money; As for ex<g ref="char:EOLhyphen"/>ample, that which was before the deſcrying of the Coyne worth five ſhillings in the pound weight, will (if the allay bee to the halfe) bee held at ten ſhillings, and ſo in every proportion reſpectively, for money is not meerely to bee eſteemed in reſpect of the ſculp<g ref="char:EOLhyphen"/>ture or figure, but it muſt value in <hi>Pecunin quantum in Maſſa,</hi> and Silver is a Commodity as other wares, and therefore holdeth his eſtimation as they doe accor<g ref="char:EOLhyphen"/>ding to the goodneſſe. And the Lord Treaſurer <hi>Burleigh</hi> in Anno one thouſand five hundred ſixty one, when the Court of State affected an abaſement of Coyne, after a grave deliberation adviſed the Queene from it, and never would give way to any ſuch reſolution in his time.</p>
+               <p>But that benefit which truely the King may make more of Bullion then now hee doth, is to erect againe <hi>Cambrium Regis</hi> his owne Exchange, an Office as an<g ref="char:EOLhyphen"/>tient as before <hi>H.</hi> 3. and ſo continued untill the mid<g ref="char:EOLhyphen"/>dle of <hi>H.</hi> 8. the profit of it being now ingroſſed a<g ref="char:EOLhyphen"/>mongſt a few Gold-ſmiths, and would yeeld above two thouſand pound a yeare if it were heedfully regarded, and then ſhould the King himſelfe never want the ma<g ref="char:EOLhyphen"/>terialls if two things were obſerved; the one to permit
+<pb n="24" facs="tcp:197344:14"/> all men bringing in Bullion to Trade outward the va<g ref="char:EOLhyphen"/>lue thereof in domeſticke Commodities at an abated Cuſtome, the other to abate the mighty indraught of Forraine Manufactures, and unneceſſary Wares, that the outward Trade might over-ballance the inward, which otherwiſe will (as it hath done) draw on this deſ<g ref="char:EOLhyphen"/>perate conſumption of the Common-wealth, which in Anno twenty ſeaven <hi>E.</hi> 3. was otherwiſe, for then the <hi>exitus</hi> exceeded the <hi>introitus</hi> pounds, and in the laſt times of the late Queene, for at this time the un<g ref="char:EOLhyphen"/>meaſurable uſe of Luxurious Commodities was brought in, as Wine, Spices, Silke and fine Linnen, &amp;c. For of the latter ſort above ten Groates the Ell, there is above 360000 pound yearely ſpent, which is halfe the value of our Cloths tranſported, maketh the State to buy more then they doe ſell, whereas a good Father of a Family ought to be <hi>Vendacem</hi> and not <hi>Emacem;</hi> Beſides the con<g ref="char:EOLhyphen"/>dition of our people is now ſuch that the greater part neither get nor ſave, which in a private houſe is an apparant Argument of ruining, and muſt be no leſſe in a Common-wealth. And it is obſerved generally that hence the want of Bullion now is ſuch, that there is not mo<g ref="char:EOLhyphen"/>ney (in <hi>ſpecie</hi>) ſufficient to pay the Lenders their princi<g ref="char:EOLhyphen"/>pall, ſo that Uſury is paid for money upon ſuppoſition and not really.</p>
+               <p>If then his Majeſty ſhall be pleaſed to adviſe of his Counſell to advantage himſelfe, any otherwiſe by Coynage it will be ſafe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to doe it upon a ſimple Metall then by any impliant or better ſuite, which well govern'd States both moderne and ancient uſed; for <hi>Rome</hi> in her greateſt pitch of glory had their money <hi>Ere argento, auro, puro puto,</hi> and ſo have all the abſolute Monarchies to this day in Chriſten<g ref="char:EOLhyphen"/>dome. And I believe it may be wrought to his Majeſty of good value, and to the ſtate of much eaſe if it may be put in practice with diſcreet caution, and conſtant reſolution, for
+<pb n="25" facs="tcp:197344:14"/> the danger may only be in the venting of the quantity, which may clog the State with the uſeleſſe money in extention of ex<g ref="char:EOLhyphen"/>ample which may work in by degrees an abaſement of Bul<g ref="char:EOLhyphen"/>lione.</p>
+               <p>The proportion that I would hold beneficiall and ſafe ſhould be in the Maſſe at firſt one hundred twenty thouſand pound by which his Majeſty ſhould gaine ten hundred thou<g ref="char:EOLhyphen"/>ſand pound cleerely, the encreaſe annually twelve thouſand pound in which his Majeſtie ſhould gaine a thouſand pound. And the limitation that none be inforced to take any but in ſummes under 20 s. and then but the twentieth part propor<g ref="char:EOLhyphen"/>tionably.</p>
+               <p>Againſt this ſome may object that it will either not ad<g ref="char:EOLhyphen"/>vantage the King ſo much as is projected, either from the dif<g ref="char:EOLhyphen"/>ficultie in venting, or facilitie in counterfeiting, or elſe pre<g ref="char:EOLhyphen"/>judice the State with a worthleſſe money.</p>
+               <p>The benefit to the King will eaſilie fall out if he reſtraine Retailers of victuals and ſmall wares from uſing their owne tokens; For in and about London there are above three thouſand that one with another coſt yearely five pound a peice of leaden tokens whereof the tenth remaineth not to them at the yeares end when they renew their ſtore which amounteth to above fifteene thouſand pound. And all the reſt of the Realme cannot bee inferiour to the City propor<g ref="char:EOLhyphen"/>tion and the forme and figure may with an Engine ſo ſub<g ref="char:EOLhyphen"/>tile bee nulled that the charge will prevent all practiſe of falſe play for the prejudice, ſince London (which is not the 24 part in people of the Kingdome) had in it found above 800000, by a late inquiry by the order of the late Queene and ſo falleth out to be 2. pence a perſon in the intire State, it may bee nothing either of loſſe by the firſt uttering being ſo eaſie, nor burthen any with too great a Maſſe at a time ſince continuall uſe will diſperſe ſo ſmall a quantity into ſo many hands. But on the other ſide wilbe to the meaner ſort (ex<g ref="char:EOLhyphen"/>cept the Retaylers that made advantage formerly of their own Tokens as the King ſhall now) of neceſſary uſe and be<g ref="char:EOLhyphen"/>nefit,
+<pb n="26" facs="tcp:197344:15"/> for the buyers hereafter ſhall not be tyed to one ſeller and his bad Commodities as they are ſtilll when his tokens hereafter made current by authority, ſhall leave him to the choyſe of any other Chapman. And to the poore in this time of ſmall Charity. It will be of much reliefe ſince many are like ro give a farthing Almes that will not part with a greater ſum.</p>
+               <p>Beſides it cannot but prevent much waſt of ſilver that by the minting pence and halfepence is occaſioned, there wilbe no cauſe hereafter to cut Bullion into proportion ſo fit for loſſe, what that hath beene may bee conject<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red. If wee marke but of the great quantities from the penny downward ſince <hi>H.</hi> 8. time ſtamped, how few remain. Whereas of all the Coynes from three pence upwards which are manuable (or manuall) plenty paſſe ſtill in daily payment.</p>
+            </div>
+            <div type="part">
+               <head>Regalities mixt.</head>
+               <p>As for reſtitution of the temporalities of Abbots and Bi<g ref="char:EOLhyphen"/>ſhops for which <hi>H.</hi> 7. receiued great ſums.</p>
+            </div>
+            <div type="part">
+               <head>Corodaries in Cathedrall Churches.</head>
+               <p>And having in every Cathedrall and collegiate Church as incident to his Crowne a Corodarie and made money of it at the higheſt rate he could.</p>
+            </div>
+            <div type="part">
+               <head>Vacancie of Biſhopricks.</head>
+               <p>The benefit of the vacancy of any Biſhop ſome Kings have uſed to their beſt advantage, making a Circular remove of as many as in reputation and profit were inferiour to the place void,</p>
+               <p>Concurrent Juriſdiction as the Pope had in former times.</p>
+               <p>Beſides theſe there are two of no mean Commodity.</p>
+               <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="27" facs="tcp:197344:15"/>
+               <p>The one is grounded upon a concurrent Juriſdiction with every Ordinary in the Dioceſſe with the King by having the power Papall in that point inveſted in him by Act of Parliament, may exerciſe by his Commiſſion or otherwiſe remit to the Ordinary for ſome valuable reſpect. Thus did <hi>Cardinall Wolſey</hi> with <hi>Wareham</hi> the Arch-Biſhop of Can<g ref="char:EOLhyphen"/>terbury and all other the Bſhops of the Kingdome after hee had got his Legative power.<note place="margin">Ex. Compoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t. Orig. inte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Wolſer &amp; Arch. Cant. dat. <hi>14.</hi> H. <hi>8.</hi>
+                  </note> And this if it were put in pract<g ref="char:EOLhyphen"/>iſe would draw to the King two hundred thouſand pound into his Coffers.</p>
+               <p>The other is the ſhort accompt yeelded the King of ſuch Eccleſiaſticall Tenths and duties as were often or annually paid unto the Pope in former times.<note place="margin">Tenths of the Church Lands now in the Lai<g ref="char:EOLunhyphen"/>tie.</note> And now by Statute in<g ref="char:EOLhyphen"/>veſted in the Crowne, for in former times the Sea of Rom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> received them not as onely out of the meere Spiritualties of Spirituall perſons, which Lands being now divided from the Church into the hands of the Laitye, yet ought they to pay this duty, ſince they were ſetled in the Crowne by a former Law, and no ſubſequent ever hath diſcharged them.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
